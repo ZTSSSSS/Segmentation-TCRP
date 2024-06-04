@@ -13,6 +13,8 @@ bird:424
 
 fish:18
 
+文件命名规则：id_类别_序号
+
 考虑到版权因素，只提供部分切割后图片集，需求原图可联系论文作者
 
 链接：https://pan.baidu.com/s/1jiDK2wx6wFdcObcl_hUNKA 
