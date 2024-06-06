@@ -7,9 +7,9 @@ flower:1273
 
 seal:1260
 
-insect:198
+insect:498
 
-bird:424
+bird:621
 
 fish:18
 
