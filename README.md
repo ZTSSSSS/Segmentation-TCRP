@@ -3,15 +3,15 @@ A segmentation dataset with 5 categories of traditional Chinese realistic painti
 
 数据集类别构成：
 
-flower:1273
+flower:1294
 
-seal:1260
+seal:1299
 
-insect:498
+insect:214
 
-bird:621
+bird:435
 
-fish:18
+fish:31
 
 文件命名规则：id_类别_序号
 
